@@ -23,8 +23,8 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://jp.linkedin.com/in/paulettezaldivarflores3?trk=people-guest_people_search-card" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="paulette" height="30" width="40" /></a> 
@@ -35,8 +35,8 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
     <a href="https://getbootstrap.com/" target="_blank"
     rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.tutorialrepublic.com/css-tutorial/" target="_blank"
@@ -55,11 +55,20 @@
       alt="react" width="40" height="40" /> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
 
 <br>
-<h3 align="left">My Stats:</h3>
+  
+  <h2 align="center">Visitor's count :eyes:</h2>
 
-<p align = "center">
+<p align="center"><img src="https://profile-counter.glitch.me/{paulette-zaldivar-flores}/count.svg" alt="Paulette's Visitor's Count" :: Visitor's Count" /></p>
+  
+<br>  
+  
+<h2 align="center">My Stats:</h2>
+
+<div align="center">
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulette-zaldivar-flores&layout=compact)](https://github.com/paulette-zaldivar-flores/github-readme-stats)
+  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulette-zaldivar-flores&layout=compact)](https://github.com/paulette-zaldivar-flores/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulette-zaldivar-flores&theme=light)](https://git.io/streak-stats) </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulette-zaldivar-flores&theme=light)](https://git.io/streak-stats) </div>
 
