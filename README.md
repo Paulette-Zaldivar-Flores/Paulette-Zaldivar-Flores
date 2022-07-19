@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact : Traveling is life
 
-- 👩🏽‍🔧 Currently open to full-time, part-time and interships positions for front-end development. Feel free to contact me!
+- 👩🏽‍🔧 Currently open to full-time, part-time and interships positions for frontend development. Feel free to contact me!
 
 - 📫 How to reach me **paulettz@icloud.com**
 
