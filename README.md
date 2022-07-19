@@ -1,7 +1,10 @@
-<h1 align="center" > <a href="https://pzf.netlify.app/" target="_blank" rel="About-Me"> Hi 👋🏽, I'm Paulette Zaldivar Flores </a></h1> 
-<h3 align="center">Front-End Developer 👩🏽‍💻</h3>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><image src="https://media4.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47xkrmseh4z6lkqqhj1rroct9rm19o17yry566pqg0&rid=giphy.gif&ct=g" width="100%" height="100%"  frameBorder="0" class="giphy-embed" allowFullScreen></img></div> 
+<h1 align="center" > <a href="https://pzf.netlify.app/" target="_blank" rel="About-Me"> Hi, I'm Paulette Zaldivar Flores 👋🏽 </a></h1> 
+<h2 align="center">Frontend Developer 👩🏽‍💻</h2>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/OX7Dj6OOG9Lji/giphy.gif">
+</div>
+<h2 align = "center"> Thank you for visiting my github</h2>
 <br>
 
 
