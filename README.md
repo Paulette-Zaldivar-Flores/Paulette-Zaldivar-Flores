@@ -4,17 +4,23 @@
 <div align="center">
   <img src="https://media.giphy.com/media/OX7Dj6OOG9Lji/giphy.gif">
 </div>
-<h2 align = "center"> Thank you for visiting my github</h2>
+
 <br>
 
 
+
+<h3>About Me </h3> Hi my name is Paulette I am a frontend developer with over a decade of teaching experience. I am a developer with a proven ability to collaborate effectively in a team to produce clean and effective applications. As a results driven, detail oriented individual I apply my coding, management and communication skills to variety of web development projects. I am passionate about how users experience technology through my programming knowledge. I am ready to apply my passion of bringing ideas to life to an inclusive team that fosters professional growth, empathy and creativity. Feel free to contact me.
+<br>
+<br>
+
+<h3> A little more about me...</h3>
 
 
 - 🌱 I’m currently learning React.js and other programming languages
 
 - 👩🏽‍💻 Looking to contribute in fun React.js projects
 
-- ⚡ Fun fact : Traveling is life
+- ⚡ Fun fact: Traveling is life
 
 - 👩🏽‍🔧 Currently open to full-time, part-time and interships positions for frontend development. Feel free to contact me!
 
@@ -74,6 +80,14 @@
  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulette-zaldivar-flores&theme=light)](https://git.io/streak-stats)
+  
 
-<img src ="https://media.giphy.com/media/3o6ZtcOxQ9vi8vb9Cg/giphy.gif" width= "300px" >  </div>
+  
+  <br>
+  
+ 
+<img src ="https://media.giphy.com/media/3o6ZtcOxQ9vi8vb9Cg/giphy.gif" width= "300px" >  
+  
+   <h2 align = "center"> Thank you for visiting my github<img src = "https://media.giphy.com/media/IcJ6n6VJNjRNS/giphy.gif" width= "50px"></h2> 
+</div>
 
