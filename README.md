@@ -73,5 +73,7 @@
   
  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulette-zaldivar-flores&theme=light)](https://git.io/streak-stats) </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulette-zaldivar-flores&theme=light)](https://git.io/streak-stats)
+
+<img src ="https://media.giphy.com/media/3o6ZtcOxQ9vi8vb9Cg/giphy.gif" width= "300px" >  </div>
 
