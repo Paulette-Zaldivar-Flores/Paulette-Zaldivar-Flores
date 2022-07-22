@@ -1,4 +1,4 @@
-<h1 align="center" > <a href="https://pzf.netlify.app/" target="_blank" rel="About-Me"> Hi, I'm Paulette Zaldivar Flores 👋🏽 </a></h1> 
+<h1 align="center" >Hi, I'm  <a href="https://pzf.netlify.app/" target="_blank" rel="About-Me"> Paulette Zaldivar Flores</a> 👋🏽</h1> 
 <h2 align="center">Frontend Developer 👩🏽‍💻</h2>
 
 <div align="center">
