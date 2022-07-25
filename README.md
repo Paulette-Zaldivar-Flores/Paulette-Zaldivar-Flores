@@ -1,5 +1,5 @@
-<h1 align="center" >Hi, I'm  <a href="https://pzf.netlify.app/" target="_blank" rel="About-Me"> Paulette Zaldivar Flores</a> 👋🏽</h1> 
-<h2 align="center">Frontend Developer 👩🏽‍💻</h2>
+<h1 align="center" >Hi, I'm  <a href="https://pzf.netlify.app/" target="_blank" rel="About-Me"> Paulette Zaldivar Flores</a> <img src="https://media.giphy.com/media/SsxFYGLWvkhOpjBvjW/giphy.gif" width = "50px"/></h1> 
+<h2 align="center">Frontend Developer <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width = "50px"/></h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/OX7Dj6OOG9Lji/giphy.gif">
@@ -16,17 +16,17 @@
 <h3> A little more about me...</h3>
 
 
-- 🌱 I’m currently learning React.js and other programming languages
+- <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width = "40px"/> I’m currently learning React.js and other programming languages
 
-- 👩🏽‍💻 Looking to contribute in fun React.js projects
+- <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/> Looking to contribute in fun React.js projects
 
-- ⚡ Fun fact: Traveling is life
+- <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling is life
 
-- 👩🏽‍🔧 Currently open to full-time, part-time and interships positions for frontend development. Feel free to contact me!
+- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time, part-time and interships positions for frontend development. Feel free to contact me!
 
-- 📫 How to reach me **paulettz@icloud.com**
+- <img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width = "40px"/>How to reach me **paulettz@icloud.com**
 
-- 🖥  Check out my latest project  <p> <a href="https://incandescent-froyo-b0949f.netlify.app/" target="_blank" rel="React-Dictionary"> React Dictionary App  </a></p> 
+- <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = "40px"/> Check out my latest project  <p> <a href="https://incandescent-froyo-b0949f.netlify.app/" target="_blank" rel="React-Dictionary">React Dictionary App</a></p> 
 
 
 
