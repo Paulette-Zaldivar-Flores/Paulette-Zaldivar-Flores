@@ -1,4 +1,4 @@
-<h1 align="center" >Hi, I'm  <a href="https://pzf.netlify.app/" target="_blank" rel="About-Me"> Paulette Zaldivar Flores</a> <img src="https://media.giphy.com/media/SsxFYGLWvkhOpjBvjW/giphy.gif" width = "50px"/></h1> 
+<h1 align="center">Hi, I'm  <a href="https://pzf.netlify.app/" target="_blank" rel="About-Me"> Paulette Zaldivar Flores</a> <img src="https://media.giphy.com/media/SsxFYGLWvkhOpjBvjW/giphy.gif" width = "50px"/></h1> 
 <h2 align="center">Frontend Developer <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width = "50px"/></h2>
 
 <div align="center">
@@ -6,8 +6,6 @@
 </div>
 
 <br>
-
-
 
 <h3>About Me </h3> Hi my name is Paulette I am a frontend developer with over a decade of teaching experience. I am a developer with a proven ability to collaborate effectively in a team to produce clean and effective applications. In a team, I am the person that you would be comfortable with to ask for help any time. As a results driven, detail oriented individual I apply my coding, management and communication skills to variety of web development projects. I am passionate about how users experience technology through my programming knowledge. I am ready to apply my passion of bringing ideas to life to an inclusive team that fosters professional growth, empathy and creativity. Feel free to contact me.
 <br>
@@ -46,7 +44,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-
 <div align="center">
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -59,11 +56,7 @@
   <img alt="Axios" src="https://custom-icon-badges.herokuapp.com/badge/Axios-blue?logo=comment-discussion&logoColor=white&style=for-the-badge">
     <img alt="Figma" src="https://custom-icon-badges.herokuapp.com/badge/Figma-purple?logo=paintbrush&logoColor=white&style=for-the-badge">
     <img alt = "Invision" src = "https://custom-icon-badges.herokuapp.com/badge/Invision-pink?logo=paintbrush&logoColor=white&style=for-the-badge">
-  
-  
-  
-</div>
-
+ </div>
 
 
 <br>
