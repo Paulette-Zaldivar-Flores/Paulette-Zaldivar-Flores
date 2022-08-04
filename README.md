@@ -7,7 +7,7 @@
 
 <br>
 
-<h3>About Me </h3> Hi my name is Paulette I am a frontend developer with over a decade of teaching experience. I am a developer with a proven ability to collaborate effectively in a team to produce clean and effective applications. In a team, I am the person that you would be comfortable with to ask for help any time. As a results driven, detail oriented individual I apply my coding, management and communication skills to variety of web development projects. I am passionate about how users experience technology through my programming knowledge. I am ready to apply my passion of bringing ideas to life to an inclusive team that fosters professional growth, empathy and creativity. Feel free to contact me.
+<h3>About Me </h3> Hi my name is Paulette I am a frontend developer with over a decade of teaching experience. I am a developer with a proven ability to collaborate effectively in a team to produce clean and effective applications. In a team, I am the person that you would be comfortable with to ask for help any time. As a results driven, detail oriented individual I apply my coding, management and communication skills to a variety of web development projects. I am passionate about how users experience technology through my programming knowledge. I am ready to apply my passion of bringing ideas to life to an inclusive team that fosters professional growth, empathy and creativity. Feel free to contact me.
 <br>
 <br>
 
