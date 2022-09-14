@@ -24,7 +24,7 @@
 
 - <img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width = "40px"/>How to reach me **paulettz@icloud.com**
 
-- <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = "40px"/> Check out my latest project  <p> <a href="https://promptory.netlify.app/" target="_blank" rel="React-Dictionary">Promptory</a></p> 
+- <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = "40px"/> Check out my latest group project:  <p> <a href="https://ez-cocktails-prod.netlify.app/" target="_blank" rel="Ez-Cocktails"> EZ Cocktails</a></p> 
 
 
 
