@@ -2,7 +2,7 @@
 <h2 align="center">Frontend Developer <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width = "50px"/></h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/OX7Dj6OOG9Lji/giphy.gif">
+  <img src="https://media.giphy.com/media/765ccrAiB0g9z6EApL/giphy.gif">
 </div>
 
 <br>
