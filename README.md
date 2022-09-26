@@ -14,9 +14,9 @@
 <h3> A little more about me...</h3>
 
 
-- <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width = "40px"/> I’m currently learning React.js and other programming languages
+- <img src="https://media.giphy.com/media/RemHbGtR3lNsqyERMS/giphy.gif" width = "40px"/> I’m currently a fullstack web development student at Le Wagon Tokyo. This is my second bootcamp on my journey in becoming the best developer I can be.
 
-- <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/> Looking to contribute in fun React.js projects
+- <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/> Looking to contribute in fun React.js and fullstack projects
 
 - <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling is life
 
