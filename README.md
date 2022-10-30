@@ -7,11 +7,11 @@
 
 <br>
 
-<h3>About Me </h3> Hi my name is Paulette I am a frontend developer with over a decade of teaching experience. I am a developer with a proven ability to collaborate effectively in a team to produce clean and effective applications. In a team, I am the person that you would be comfortable asking for help any time. As a results driven, detail oriented individual I apply my coding, management and communication skills to a variety of web development projects. I am passionate about how users experience technology through my programming knowledge. I am ready to apply my passion of bringing ideas to life to an inclusive team that fosters professional growth, empathy and creativity. Feel free to contact me.
+<h3> 👩🏽‍💻 About Me </h3> Hi my name is Paulette I am a frontend developer with over a decade of teaching experience. I am a developer with a proven ability to collaborate effectively in a team to produce clean and effective applications. In a team, I am the person that you would be comfortable asking for help any time. As a results driven, detail oriented individual I apply my coding, management and communication skills to a variety of web development projects. I am passionate about how users experience technology through my programming knowledge. I am ready to apply my passion of bringing ideas to life to an inclusive team that fosters professional growth, empathy and creativity. Feel free to contact me.
 <br>
 <br>
 
-<h3> A little more about me...</h3>
+<h3> 🤓 A little more about me...</h3>
 
 
 - <img src="https://media.giphy.com/media/RemHbGtR3lNsqyERMS/giphy.gif" width = "40px"/> I’m currently a fullstack web development student at Le Wagon Tokyo. This is my second bootcamp on my journey in becoming the best developer I can be.
@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"> 💬 Connect with me:</h3>
 <p align="center">
   <a href="https://jp.linkedin.com/in/paulettezaldivarflores3?trk=people-guest_people_search-card" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -42,7 +42,7 @@
 
 <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center"> 🛠 Languages and Tools:</h3>
 
 <div align="center">
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -61,13 +61,13 @@
 
 <br>
   
-  <h2 align="center">Visitor's count :eyes:</h2>
+  <h2 align="center">Visitor's Count :eyes:</h2>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{paulette-zaldivar-flores}/count.svg" alt="Paulette's Visitor's Count" :: Visitor's Count" /></p>
   
 <br>  
   
-<h2 align="center">My Stats:</h2>
+<h2 align="center"> 🔥 My Stats:</h2>
 
 <div align="center">
   
