@@ -50,7 +50,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue_JS-CA4245?style=for-the-badge&logo=vue&logoColor=white">
+  <img alt="Vue" src="https://img.shields.io/badge/Vue_JS-00FFFF?style=for-the-badge&logo=vue&logoColor=white">
+   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
  <img alt="ScrollRevealJS" src="https://custom-icon-badges.herokuapp.com/badge/Scroll--Reveal.JS-218A3D?logo=paintbrush&logoColor=white&style=for-the-badge">
   <img alt="Axios" src="https://custom-icon-badges.herokuapp.com/badge/Axios-blue?logo=comment-discussion&logoColor=white&style=for-the-badge">
