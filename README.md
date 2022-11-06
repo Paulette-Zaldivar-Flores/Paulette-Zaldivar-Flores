@@ -82,7 +82,8 @@
     <img width=550 src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulette-zaldivar-flores&langs_count=6&hide=scss&bg_color=1F222E&title_color=58A6FF&text_color=DDDDDD&hide_border=true&layout=compact#gh-dark-mode-only"> 
   </a>
 
-  
+  <br>
+  <br>
  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulette-zaldivar-flores&theme=dark)](https://git.io/streak-stats)
