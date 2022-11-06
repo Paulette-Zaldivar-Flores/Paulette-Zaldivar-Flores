@@ -45,20 +45,25 @@
 <h3 align="center"> 🛠 Languages and Tools:</h3>
 
 <div align="center">
-  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img alt="Vue" src="https://img.shields.io/badge/Vue_JS-00FFFF?style=for-the-badge&logo=vue&logoColor=white">
-   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-FF0000?style=for-the-badge&logo=ruby&logoColor=white">
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
- <img alt="ScrollRevealJS" src="https://custom-icon-badges.herokuapp.com/badge/Scroll--Reveal.JS-218A3D?logo=paintbrush&logoColor=white&style=for-the-badge">
-  <img alt="Axios" src="https://custom-icon-badges.herokuapp.com/badge/Axios-blue?logo=comment-discussion&logoColor=white&style=for-the-badge">
-    <img alt="Figma" src="https://custom-icon-badges.herokuapp.com/badge/Figma-purple?logo=paintbrush&logoColor=white&style=for-the-badge">
-    <img alt = "Invision" src = "https://custom-icon-badges.herokuapp.com/badge/Invision-pink?logo=paintbrush&logoColor=white&style=for-the-badge">
- </div>
-
+  
+            
+          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="50"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React" alt = "React" width = "50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JS" width="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg" title="Vue" alt="Vue" width="50"/>           
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" alt="sql" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="50"/>       
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="Github" alt="Github" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" />
+                        
+</div>
 
 <br>
   
