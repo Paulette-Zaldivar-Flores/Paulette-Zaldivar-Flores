@@ -24,7 +24,10 @@
 
 - <img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width = "40px"/>How to reach me **paulettz@icloud.com**
 
-- <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width = "40px"/> Check out my latest group project:  <p> <a href="https://ez-cocktails-prod.netlify.app/" target="_blank" rel="Ez-Cocktails"> EZ Cocktails</a></p> 
+- <img src="https://media.giphy.com/media/7ivTyfdt5Pcnn5zjHF/giphy.gif" width = "40px"/> Check out my latest group project:  <p> <a href="https://ez-cocktails-prod.netlify.app/" target="_blank" rel="Ez-Cocktails"> EZ Cocktails</a></p> 
+
+- <img src="https://media.giphy.com/media/EgWkHnePsN8wXKrxNZ/giphy.gif" width = "40px"/> And my on going solo project: <p> <a href="https://berry-fiore.netlify.app/" target="_blank" rel="Berry-Fiore"> Berry Fiore</a></p> 
+
 
 
 
