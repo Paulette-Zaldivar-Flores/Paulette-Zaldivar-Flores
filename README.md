@@ -20,7 +20,7 @@
 
 - <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling is life
 
-- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time, part-time and interships positions for frontend development. Feel free to contact me! (Open to Relocation)
+- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time, part-time and interships positions for Frontend Development. Feel free to contact me! (Open to Relocation)
 
 - <img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width = "40px"/>How to reach me **paulettz@icloud.com**
 
