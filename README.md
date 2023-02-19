@@ -16,7 +16,7 @@
 
 - <img src="https://media.giphy.com/media/RemHbGtR3lNsqyERMS/giphy.gif" width = "40px"/> I’m currently a fullstack web development student at Le Wagon Tokyo. This is my second bootcamp on my journey in becoming the best developer I can be.
 
-- <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/> Volunteer Frontend Developer at Mamoru 
+- <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/>Intern Frontend Developer at <a href ="https://www.mamoru.earth/">Mamoru</a>
 
 - <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling is life
 
