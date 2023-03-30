@@ -14,19 +14,19 @@
 <h3> 🤓 A little more about me...</h3>
 
 
-- <img src="https://media.giphy.com/media/RemHbGtR3lNsqyERMS/giphy.gif" width = "40px"/> I’m currently a fullstack web development student at Le Wagon Tokyo. This is my second bootcamp on my journey in becoming the best developer I can be.
+- <img src="https://media.giphy.com/media/RemHbGtR3lNsqyERMS/giphy.gif" width = "40px"/> I’m a fullstack web developer with a keen interest for Frontend Development and UX/UI. Please reach out if you have any questions about my bootcamp and my 1.5 year long web development learning experience. 
 
-- <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/>Software Engineer Intern at <a href ="https://www.mamoru.earth/">Mamoru</a>
+- <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/>Junior Software Engineer Intern at <a href ="https://www.mamoru.earth/">Mamoru</a>
 
 - <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling is life
 
-- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time, part-time and interships positions for Frontend Development. Feel free to contact me! (Open to Relocation)
+- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time, part-time and apprenticeship positions for Frontend Development. Feel free to contact me! (Open to Relocation)
 
 - <img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width = "40px"/>How to reach me **paulettz@icloud.com**
 
-- <img src="https://media.giphy.com/media/7ivTyfdt5Pcnn5zjHF/giphy.gif" width = "40px"/> Check out my latest group project:  <p> <a href="https://health-pocket.herokuapp.com/" target="_blank" rel="Baby-Loop">HealthPocket</a></p> 
+- <img src="https://media.giphy.com/media/7ivTyfdt5Pcnn5zjHF/giphy.gif" width = "40px"/> Check out my latest group project:  <p> <a href="https://health-pocket.herokuapp.com/" target="blank" rel="Baby-Loop">HealthPocket</a></p> 
 
-- <img src="https://media.giphy.com/media/EgWkHnePsN8wXKrxNZ/giphy.gif" width = "40px"/> And my on going solo project: <p> <a href="https://berry-fiore.netlify.app/" target="_blank" rel="Berry-Fiore"> Berry Fiore</a></p> 
+- <img src="https://media.giphy.com/media/EgWkHnePsN8wXKrxNZ/giphy.gif" width = "40px"/> And my on going solo project: <p> <a href="https://berry-fiore.netlify.app/" target="blank" rel="Berry-Fiore"> Berry Fiore</a></p> 
 
 
 
