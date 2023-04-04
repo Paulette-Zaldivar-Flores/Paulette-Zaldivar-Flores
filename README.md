@@ -2,8 +2,9 @@
 <h2 align="center">Frontend Developer <img src="https://media.giphy.com/media/hiJ9ypGI5tIKdwKoK2/giphy.gif" width = "50px"/></h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVlYmRjYzY5NTZhMzc2YzBhZGNkZTE0NDVlZWI0ZWVmN2VhMGUwMCZjdD1n/gkzcyC83jTrVl4wcIh/giphy.gif">
+  <img src="https://media.giphy.com/media/OMm2lZaKWAl4na3kAn/giphy.gif">
 </div>
+
 
 
 <br>
