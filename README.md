@@ -16,13 +16,13 @@
 <h3> 🤓 A little more about me...</h3>
 
 
-- <img src="https://media.giphy.com/media/RemHbGtR3lNsqyERMS/giphy.gif" width = "40px"/> I’m a fullstack web developer with a keen interest for Frontend Development and UX/UI. Please reach out if you have any questions about my bootcamp and my 1.5 year long web development learning experience. 
+- <img src="https://media.giphy.com/media/RemHbGtR3lNsqyERMS/giphy.gif" width = "40px"/> I’m a fullstack web developer with a keen interest for frontend development and UX/UI. 
 
 - <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/>Junior Software Engineer and UX/UI Designer Intern at <a href ="https://www.mamoru.earth/">Mamoru</a>
 
 - <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling is life
 
-- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time, part-time and apprenticeship positions for Frontend Development. Feel free to contact me! (Open to Relocation)
+- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time positions for Frontend Development and UX/UI designer. Feel free to contact me! (Open to Relocation)
 
 - <img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width = "40px"/>How to reach me **paulettz@icloud.com**
 
