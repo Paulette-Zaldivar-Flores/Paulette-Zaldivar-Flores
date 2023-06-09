@@ -9,7 +9,15 @@
 
 <br>
 
-<h3> 👩🏽‍💻 About Me </h3> Hi my name is Paulette I am a frontend developer with over a decade of teaching experience. I am a developer with a proven ability to collaborate effectively in a team to produce clean and effective applications. In a team, I am the person that you would be comfortable asking for help any time. As a results driven, detail oriented individual I apply my coding, management and communication skills to a variety of web development projects. I am passionate about how users experience technology through my programming knowledge. I am ready to apply my passion of bringing ideas to life to an inclusive team that fosters professional growth, empathy and creativity. Feel free to contact me.
+<h3> 👩🏽‍💻 About Me </h3> Hey there! My name is Paulette, and I'm not just your average frontend developer. With over a decade of teaching experience under my belt, I bring a unique perspective to the table. I thrive on collaborating effectively with teams, and I've got a proven track record of producing clean and impressive applications.
+
+One thing you can count on is that I'm always there to lend a helping hand. You can feel comfortable approaching me for assistance at any time. I'm results-driven and pay close attention to the details, ensuring that my coding, management, and communication skills are put to good use in every web development project I tackle.
+
+But it doesn't stop there. I'm genuinely passionate about creating exceptional user experiences through my programming knowledge. I believe that technology should be a seamless and enjoyable part of our lives, and I'm excited to contribute to that vision.
+
+What truly motivates me is the opportunity to bring ideas to life. I'm seeking an inclusive team that values professional growth, empathy, and creativity. If that sounds like your team, I'm ready to jump in and make a positive impact.
+
+So don't hesitate to reach out to me. I'm here, eager to connect and explore how we can work together to create something amazing.
 <br>
 <br>
 
