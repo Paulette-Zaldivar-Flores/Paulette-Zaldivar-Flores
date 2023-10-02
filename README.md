@@ -32,7 +32,7 @@ So don't hesitate to reach out to me. I'm here, eager to connect and explore how
 
 - <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling sets you free
 
-- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time positions for Frontend Development and UX/UI designer. Feel free to contact me! (Open to Relocation)
+- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time or part time positions for Frontend Developer and UX/UI Designer. Feel free to contact me! (Open to Relocation)
 
 - <img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width = "40px"/>How to reach me **paulettz@icloud.com**
 
