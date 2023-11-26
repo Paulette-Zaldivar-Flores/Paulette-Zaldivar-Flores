@@ -9,15 +9,17 @@
 
 <br>
 
-<h3> 👩🏽‍💻 About Me </h3> Hey there! My name is Paulette, and I'm not just your average frontend developer. With over a decade of teaching experience under my belt, I bring a unique perspective to the table. I thrive on collaborating effectively with teams, and I've got a proven track record of producing clean and impressive applications.
+<h3> 👩🏽‍💻 About Me </h3> 
+<p><Hey there! My name is Paulette, and I'm not just your average frontend developer. With over a decade of teaching experience under my belt, I bring a unique perspective to the table. I thrive on collaborating effectively with teams, and I've got a proven track record of producing clean and impressive applications.</p>
 
-One thing you can count on is that I'm always there to lend a helping hand. You can feel comfortable approaching me for assistance at any time. I'm results-driven and pay close attention to the details, ensuring that my coding, management, and communication skills are put to good use in every web development project I tackle.
 
-But it doesn't stop there. I'm genuinely passionate about creating exceptional user experiences through my programming knowledge. I believe that technology should be a seamless and enjoyable part of our lives, and I'm excited to contribute to that vision.
+<p>One thing you can count on is that I'm always there to lend a helping hand. You can feel comfortable approaching me for assistance at any time. I'm results-driven and pay close attention to the details, ensuring that my coding, management, and communication skills are put to good use in every web development project I tackle.</p>
 
-What truly motivates me is the opportunity to bring ideas to life. I'm seeking an inclusive team that values professional growth, empathy, and creativity. If that sounds like your team, I'm ready to jump in and make a positive impact.
+<p>But it doesn't stop there. I'm genuinely passionate about creating exceptional user experiences through my programming knowledge. I believe that technology should be a seamless and enjoyable part of our lives, and I'm excited to contribute to that vision.</p>
 
-So don't hesitate to reach out to me. I'm here, eager to connect and explore how we can work together to create something amazing.
+<p>What truly motivates me is the opportunity to bring ideas to life. I'm seeking an inclusive team that values professional growth, empathy, and creativity. If that sounds like your team, I'm ready to jump in and make a positive impact.</p>
+
+<strong>So don't hesitate to reach out to me. I'm here, eager to connect and explore how we can work together to create something amazing.</strong>
 <br>
 <br>
 
@@ -36,7 +38,7 @@ So don't hesitate to reach out to me. I'm here, eager to connect and explore how
 
 - <img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width = "40px"/>How to reach me **paulettz@icloud.com**
 
-- <img src="https://media.giphy.com/media/7ivTyfdt5Pcnn5zjHF/giphy.gif" width = "40px"/> Check out my latest group project:  <p> <a href="https://health-pocket.herokuapp.com/" target="blank" rel="Baby-Loop">HealthPocket</a> : in progress</p> 
+- <img src="https://media.giphy.com/media/7ivTyfdt5Pcnn5zjHF/giphy.gif" width = "40px"/> Check out my latest group project:  <p> <a href="https://health-pocket.herokuapp.com/" target="blank" rel="Baby-Loop">HealthPocket</a></p> 
 
 - <img src="https://media.giphy.com/media/EgWkHnePsN8wXKrxNZ/giphy.gif" width = "40px"/> And my on going solo project: <p> <a href="https://berry-fiore.netlify.app/" target="blank" rel="Berry-Fiore"> Berry Fiore</a></p> 
 
