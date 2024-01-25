@@ -40,7 +40,6 @@
 
 - <img src="https://media.giphy.com/media/7ivTyfdt5Pcnn5zjHF/giphy.gif" width = "40px"/> Check out my latest group project:  <p> <a href="https://github.com/Paulette-Zaldivar-Flores/Friendster" target="blank" rel="friendster">Friendster</a></p> 
 
-- <img src="https://media.giphy.com/media/EgWkHnePsN8wXKrxNZ/giphy.gif" width = "40px"/> And my on going solo project: <p> <a href="https://berry-fiore.netlify.app/" target="blank" rel="Berry-Fiore"> Berry Fiore</a></p> 
 
 
 
