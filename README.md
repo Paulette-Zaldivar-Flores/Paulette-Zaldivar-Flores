@@ -30,8 +30,6 @@
 
 - <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/>Junior Software Engineer and UX/UI Designer Intern at <a href ="https://www.mamoru.earth/">Mamoru</a>
 
-- <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width = "40px"/> Freelance UX/UI Designer and Developer on Fiverr  <a href ="https://www.fiverr.com/s/owrLyV">My Profile</a>
-
 - <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling sets you free
 
 - <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to full-time or part time positions for Frontend Developer and UX/UI Designer. Feel free to contact me! 
