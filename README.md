@@ -28,7 +28,6 @@
 
 - <img src="https://media.giphy.com/media/RemHbGtR3lNsqyERMS/giphy.gif" width = "40px"/> I’m a fullstack web developer with a keen interest for frontend development and UX/UI. 
 
-- <img src="https://media.giphy.com/media/1oGT95WukVFcRO1OFZ/giphy.gif" width = "40px"/>Junior Software Engineer and UX/UI Designer at <a href ="https://www.mamoru.earth/">Mamoru</a>
 
 - <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling sets you free
 
