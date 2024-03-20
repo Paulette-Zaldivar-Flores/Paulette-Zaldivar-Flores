@@ -32,7 +32,7 @@
 
 - <img src="https://media.giphy.com/media/65NvyjS9glUaEOQTTv/giphy.gif" width = "40px"/>Fun fact: Traveling sets you free
 
-- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to freelance work.
+- <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width = "40px"/>Currently open to frontend freelance work.
 
 - <img src="https://media.giphy.com/media/5axRZ5SMhky9Kj60xk/giphy.gif" width = "40px"/>How to reach me **paulettz@icloud.com**
 
