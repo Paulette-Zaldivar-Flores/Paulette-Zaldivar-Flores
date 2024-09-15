@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm  <a href="https://paulettethedev.com/" target="blank" rel="About-Me"> Paulette Zaldivar Flores</a> <img src="https://media.giphy.com/media/SsxFYGLWvkhOpjBvjW/giphy.gif" width = "50px"/></h1> 
+<h1 align="center">Hi, I'm  <a href="https://paulette-zaldivar-flores.netlify.app/" target="blank" rel="About-Me"> Paulette Zaldivar Flores</a> <img src="https://media.giphy.com/media/SsxFYGLWvkhOpjBvjW/giphy.gif" width = "50px"/></h1> 
 <h2 align="center">Frontend Developer</h2>
 
 <div align="center">
